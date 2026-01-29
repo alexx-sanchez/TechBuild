@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Intel Core i9-13900K",
+        "type": "CPU",
+        "price": 500,
+        "image": "https://m.media-amazon.com/images/I/61aQ0AzVAML.jpg"
+    },
+    {
+        "name": "AMD Ryzen 7 7800X3D",
+        "type": "CPU",
+        "price": 420,
+        "image": "https://m.media-amazon.com/images/I/51smqWKarCL.jpg"
+    },
+    {
+        "name": "Intel Core i5-13600K",
+        "type": "CPU",
+        "price": 320,
+        "image": "https://m.media-amazon.com/images/I/518UUvBjZdL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "name": "NVIDIA RTX 4080",
+        "type": "GPU",
+        "price": 1200,
+        "image": "https://www.coolmod.com/images/product/large/PROD-021939_1.jpg"
+    },
+    {
+        "name": "NVIDIA RTX 4070 Ti",
+        "type": "GPU",
+        "price": 850,
+        "image": "https://thumb.pccomponentes.com/w-530-530/articles/1064/10649571/1881-gigabyte-geforce-rtx-4070-ti-gaming-oc-12gb-gddr6x.jpg"
+    },
+    {
+        "name": "AMD Radeon RX 7900 XT",
+        "type": "GPU",
+        "price": 900,
+        "image": "https://media.ldlc.com/r1600/ld/products/00/06/00/12/LD0006001240.jpg"
+    },
+    {
+        "name": "Corsair 32GB RGB DDR5",
+        "type": "RAM",
+        "price": 150,
+        "image": "https://assets.corsair.com/image/upload/c_pad,q_85,h_1100,w_1100,f_auto/products/Memory/CMH32GX5M2B6400C32/VENGEANCE_-RGB-32GB-_2x16GB_-DDR5-DRAM-6400MHz-C32-Memory-Kit-_-Black-0.webp"
+    },
+    {
+        "name": "G.Skill Trident Z 32GB DDR5",
+        "type": "RAM",
+        "price": 170,
+        "image": "https://m.media-amazon.com/images/I/71DiVTefKBL.jpg"
+    },
+    {
+        "name": "Kingston Fury Beast 16GB DDR4",
+        "type": "RAM",
+        "price": 85,
+        "image": "https://img.pccomponentes.com/articles/43/432664/1392-kingston-fury-beast-ddr4-3200-mhz-16gb-2x8gb-cl16.jpg"
+    },
+    {
+        "name": "Samsung 980 Pro 1TB NVMe",
+        "type": "STORAGE",
+        "price": 120,
+        "image": "https://m.media-amazon.com/images/I/812DsfxDSVL._AC_UF350,350_QL80_.jpg"
+    },
+    {
+        "name": "WD Black SN850X 2TB",
+        "type": "STORAGE",
+        "price": 190,
+        "image": "https://thumb.pccomponentes.com/w-530-530/articles/1058/10582477/179-wd-black-sn850x-ssd-2tb-m2-2280-pcie-gen4-nvme-heatsink-review.jpg"
+    },
+    {
+        "name": "Corsair RM850x 850W",
+        "type": "PSU",
+        "price": 140,
+        "image": "https://m.media-amazon.com/images/I/812GLY781vL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "name": "Seasonic Focus GX-750",
+        "type": "PSU",
+        "price": 130,
+        "image": "https://seasonic.com/wp-content/uploads/2024/04/FOCUS-PX-GX-750-650-550-connector-plate-scaled.webp"
+    }
+]
